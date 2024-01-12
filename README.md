@@ -1,4 +1,4 @@
-Over the next few weeks, we will be going through the example of a SQL Server, 
+Over the next few weeks, we will be going through the example of an SQL Server, 
 reading from that server, properly cleaning the data, using ETL to prepare it 
 for data visualization, using Python as part of the ETL process, and using Power 
 BI for the data visualization.
@@ -13,6 +13,6 @@ The end goal of this tutorial is to become more familiar with SQL, SQL queries,
 Python, Jupyter Notebooks (using Python of course), and Power BI for data
 visualization.
 
-A supplimental addition to this course would be to use different data 
+A supplemental addition to this course would be to use different data 
 visualization tools, such as Streamlit or Matplotlib. This will be a side
-project for supplimental learning.
+project for supplemental learning.

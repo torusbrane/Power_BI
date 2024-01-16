@@ -1,7 +1,6 @@
 Over the next few weeks, we will be going through the example of an SQL Server, 
 reading from that server, properly cleaning the data, using ETL to prepare it 
-for data visualization, using Python as part of the ETL process, and using Power 
-BI for the data visualization.
+for data visualization, and using Power BI for the data visualization.
 
 Here is the playlist link from YouTube:
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
